@@ -177,20 +177,3 @@ If nothing else, you will receive an email about the domain name.
 If you encounter any problems or bugs, please mention [issues](https://github.com/luolongfei/freenom/issues). If freenom changes the algorithm and causes this project to fail,
 Please mention [issues](https://github.com/luolongfei/freenom/issues) to inform me that I will fix it in time and maintain this project for a long time. Welcome star ~
 
-### ❤  Donate
-
-#### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
-> Every time you spend money, you're casting a vote for the kind of world you want .-- Anna Lappe
-
-![Every time you spend your money, you are voting for the world you want. ](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
-
-### 🌚  Author
-- Main program and framework: [@luolongfei](https://github.com/luolongfei)
-- English document: [@肖阿姨](#)
-
-### 🎉  Acknowledgements
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer/) (Mail sending function depends on this library)
-- [guzzle](https://github.com/guzzle/guzzle) (Curl library)
-
-### 🥝  Open source agreement
-[MIT](https://opensource.org/licenses/mit-license.php)
